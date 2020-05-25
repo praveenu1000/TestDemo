@@ -1,4 +1,9 @@
 Test File to Do some hands-on
 Editing in the file on github
-
+<<<<<<< HEAD
+SamelineEdit - Desktop
 Edting from the desktop
+=======
+sameline edit from github
+Edting from the desktop
+>>>>>>> ccc4ad738d539854af164995682bc93341fc7593
